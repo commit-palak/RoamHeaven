@@ -1,13 +1,18 @@
-# RoamHeaven
+# RoamHaven
+
 This is a clone of the Airbnb web application built using MERN stack. It is a full-stack web application that allows users to book accommodations in various locations. This application supports user registration, login and authentication. It also features my accommodations for adding and managing places.
+
 ## Installation
+
 To install and run the application, please follow these steps:
 
 - Clone the repository to your local machine.
 - Navigate to the project root folder in the terminal
-- Install dependencies using the command yarn.
+- Install dependencies using the command `yarn`.
 - You can either work with MongoDB atlas or use your locally installed MongoDB
+
 ## Features
+
 The application has following features:
 
 - User authentication and autherization
@@ -15,8 +20,10 @@ The application has following features:
 - Book an accommodation by selecting check-in and check-out dates
 - View and manage bookings as a registered user
 - Add and manage accommodations as a registered user
-  ## Dependencies
- This project uses the following dependencies:
+
+## Dependencies
+
+This project uses the following dependencies:
 
 - MongoDB - NoSQL database used to store application data.
 - Express - Node.js framework used to build the server-side of the application.
